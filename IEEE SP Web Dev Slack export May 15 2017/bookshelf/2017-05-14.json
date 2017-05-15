@@ -1,0 +1,73 @@
+[
+    {
+        "user": "U52HJQQMR",
+        "text": "<@U52HJQQMR|viggi> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494767042.471419"
+    },
+    {
+        "user": "U52HJQQMR",
+        "purpose": "all the resources will posted here too, for easy access.",
+        "text": "<@U52HJQQMR|viggi> set the channel purpose: all the resources will posted here too, for easy access.",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1494767043.471498"
+    },
+    {
+        "user": "U52KA1B41",
+        "text": "<@U52KA1B41|aneesh297> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494767158.477446"
+    },
+    {
+        "user": "U536M4S7L",
+        "text": "<@U536M4S7L|mishal23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494767320.485103"
+    },
+    {
+        "user": "U52GBB6TA",
+        "text": "<@U52GBB6TA|mahim23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494767325.485300"
+    },
+    {
+        "user": "U5479Q8KV",
+        "text": "<@U5479Q8KV|anmolh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494770078.617815"
+    },
+    {
+        "user": "U57DKAK8F",
+        "text": "<@U57DKAK8F|suyashghuge> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494772431.740117"
+    },
+    {
+        "user": "U53MW3E0G",
+        "text": "<@U53MW3E0G|pvgupta24> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494772528.745257"
+    },
+    {
+        "user": "U549B06V8",
+        "text": "<@U549B06V8|arvind111> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494780572.179297"
+    },
+    {
+        "user": "U554ESJEB",
+        "text": "<@U554ESJEB|vidhikothari> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494821952.807427"
+    }
+]

@@ -1,0 +1,4108 @@
+[
+    {
+        "user": "U5B8B4CBA",
+        "text": "<@U5B8B4CBA|mehakarora> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494491298.535588"
+    },
+    {
+        "user": "U5C5SLR29",
+        "text": "<@U5C5SLR29|srahulsrihari36> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494511150.362012"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "How many of you are online?",
+        "ts": "1494511244.409932"
+    },
+    {
+        "type": "message",
+        "user": "U536M4S7L",
+        "text": "Me",
+        "ts": "1494511261.418748"
+    },
+    {
+        "type": "message",
+        "user": "U5B8B4CBA",
+        "text": "Me",
+        "ts": "1494511276.426275"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Me",
+        "ts": "1494511283.429794"
+    },
+    {
+        "type": "message",
+        "user": "U53NLR7B3",
+        "text": "Me",
+        "ts": "1494511287.431926"
+    },
+    {
+        "type": "message",
+        "user": "U548ZLVEW",
+        "text": "Me",
+        "ts": "1494511291.433572"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "me",
+        "ts": "1494511313.444481"
+    },
+    {
+        "type": "message",
+        "user": "U5479Q8KV",
+        "text": "Me",
+        "thread_ts": "1494511313.444665",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U548ZLVEW",
+                "ts": "1494511354.465099"
+            },
+            {
+                "user": "U5479Q8KV",
+                "ts": "1494511523.546713"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1494511313.444665"
+    },
+    {
+        "type": "message",
+        "user": "U52GL5UQ0",
+        "text": "Me",
+        "ts": "1494511340.458302"
+    },
+    {
+        "type": "message",
+        "user": "U548ZLVEW",
+        "text": "anmolh: hi Horo Sahab :grin::grin::grin:",
+        "thread_ts": "1494511313.444665",
+        "parent_user_id": "U5479Q8KV",
+        "ts": "1494511354.465099"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "me",
+        "ts": "1494511360.468009"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Since there's a good number of you right now, let's start",
+        "ts": "1494511419.496840"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So, lets start with what HTML is first. It's essential to know these basics to do any kind of web development.",
+        "ts": "1494511477.524716"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "HTML is the standard markup language for creating Web pages.",
+        "ts": "1494511501.535939"
+    },
+    {
+        "user": "U5CT7AE79",
+        "text": "<@U5CT7AE79|samarthb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494511509.539865"
+    },
+    {
+        "type": "message",
+        "user": "U5479Q8KV",
+        "text": "Kyu re yaha bhi suru ho gaya\n",
+        "thread_ts": "1494511313.444665",
+        "parent_user_id": "U5479Q8KV",
+        "ts": "1494511523.546713"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "It stands for Hypertext Markup Language .",
+        "ts": "1494511524.547204"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So what's a markup language and how is it different from a programming language?",
+        "ts": "1494511547.557675"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Markup languages are designed for the processing, definition and presentation of text.\nThey are designed not for general purpose programming, but for processing or presentation of text.",
+        "ts": "1494511571.569302"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "A simple HTML doc would look like this:",
+        "ts": "1494511608.586980"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U52KA1B41|aneesh297> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5CT90CR5\/sample_html_doc.html|Sample HTML doc>",
+        "file": {
+            "id": "F5CT90CR5",
+            "created": 1494511651,
+            "timestamp": 1494511651,
+            "name": "Sample_HTML_doc.html",
+            "title": "Sample HTML doc",
+            "mimetype": "text\/plain",
+            "filetype": "html",
+            "pretty_type": "HTML",
+            "user": "U52KA1B41",
+            "editable": true,
+            "size": 152,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5CT90CR5\/sample_html_doc.html?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5CT90CR5\/download\/sample_html_doc.html?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5CT90CR5\/sample_html_doc.html",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5CT90CR5-369d042b0b",
+            "edit_link": "https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5CT90CR5\/sample_html_doc.html\/edit",
+            "preview": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>Page Title<\/title>\r\n<\/head>\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;!DOCTYPE html&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">html<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">head<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">title<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>Page Title<span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">title<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">head<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 12,
+            "lines_more": 7,
+            "preview_is_truncated": false,
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U52KA1B41",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "aneesh297",
+        "bot_id": null,
+        "ts": "1494511660.611172"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "You can create and edit HTML documents using a simple text editor like Notepad. Just don't forget to save it as a .html file.",
+        "ts": "1494511725.642566"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Any doubts so far?",
+        "thread_ts": "1494511741.650216",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U536M4S7L",
+                "ts": "1494511844.698266"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494511741.650216"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "I'll clarify what each of those parts of the sample code mean in a moment",
+        "ts": "1494511782.668971"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Uh is anybody online?",
+        "ts": "1494511841.697208"
+    },
+    {
+        "type": "message",
+        "user": "U536M4S7L",
+        "text": "aneesh297: No",
+        "thread_ts": "1494511741.650216",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494511844.698266"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "No doubts",
+        "ts": "1494511851.701990"
+    },
+    {
+        "type": "message",
+        "user": "U5866PWNB",
+        "text": "No",
+        "ts": "1494511853.702645"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Okay cool",
+        "ts": "1494511857.704966"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes......no doubts so far",
+        "ts": "1494511859.705404"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So",
+        "ts": "1494511873.712502"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The HTML document itself begins with &lt;html&gt; and ends with &lt;\/html&gt;.",
+        "ts": "1494511875.713381"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The visible part of the HTML document is between &lt;body&gt; and &lt;\/body&gt;.",
+        "ts": "1494511911.730590"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "These things are called elements.",
+        "ts": "1494511933.741370"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "An HTML element usually consists of a start tag and end tag, with the content inserted in between:\n&lt;tagname&gt;Content goes here...&lt;\/tagname&gt;",
+        "ts": "1494511949.748754"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "For example, the paragraph tag:\n&lt;p&gt;Paragraph content&lt;\/p&gt;",
+        "ts": "1494511976.761471"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "In the body, if we want  to have headings, we use any of the &lt;h1&gt; to &lt;h6&gt; tags.",
+        "ts": "1494512050.796664"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Where h1 indicates the most important heading and has the largest font size.",
+        "ts": "1494512064.803401"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;h1&gt; Heading &lt;\/h1&gt;",
+        "ts": "1494512086.813830"
+    },
+    {
+        "type": "message",
+        "user": "U5CT7AE79",
+        "text": "h2 will have smaller size is it?",
+        "ts": "1494512133.836969"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "yes",
+        "ts": "1494512139.839710"
+    },
+    {
+        "type": "message",
+        "user": "U5CT7AE79",
+        "text": ":+1:",
+        "ts": "1494512147.843474"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Now coming to attributes.",
+        "ts": "1494512160.849591"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Attributes provide additional information about HTML elements.",
+        "ts": "1494512163.851060"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "what does it mean by the visible part?? the tag title wont b visible? its out of the body",
+        "thread_ts": "1494512206.871117",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U52HJQQMR",
+                "ts": "1494557390.895852"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494512206.871117"
+    },
+    {
+        "type": "message",
+        "user": "U5CT7AE79",
+        "text": "Visible on the browser after running i suppose",
+        "ts": "1494512228.881799"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "No not the tag. The contents of the tag is visible on the browser.",
+        "ts": "1494512240.887650"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "is it more like the webpage name??",
+        "ts": "1494512271.902327"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "In other words, you'd put the any of the parts that are actually going to appear on the webpage in the body section",
+        "ts": "1494512294.913049"
+    },
+    {
+        "type": "message",
+        "user": "U57AF2MQU",
+        "text": "No. Whatever you see in the browser was coded within the body part.",
+        "thread_ts": "1494512298.914892",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494512337.933503"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494512298.914892"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "okay!! thnx",
+        "ts": "1494512318.924216"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "gj: yes exactly",
+        "thread_ts": "1494512298.914892",
+        "parent_user_id": "U57AF2MQU",
+        "ts": "1494512337.933503"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": ":+1:",
+        "ts": "1494512358.943247"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "okay . about attributes. All HTML elements can have attributes.",
+        "ts": "1494512372.950084"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "for example, if you want to display an image, you use the &lt;img&gt;&lt;\/img&gt; tag.",
+        "ts": "1494512398.962871"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "*&lt;img&gt; tag",
+        "ts": "1494512432.979398"
+    },
+    {
+        "type": "message",
+        "user": "U5CT7AE79",
+        "text": "What do u have inside it? the image name?",
+        "ts": "1494512453.989224"
+    },
+    {
+        "type": "message",
+        "user": "U5CT7AE79",
+        "text": "&lt;img&gt; name &lt;\/img&gt;?",
+        "ts": "1494512467.995896"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So to mention which file you want to use, you mention the image name as an attribute",
+        "ts": "1494512470.997381"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;img src=\"pic_mountain.jpg\" alt=\"Mountain View\" style=\"width:304px;height:228px;\"&gt;",
+        "ts": "1494512472.998294"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So src=\"pic_mountain.jpg\" is an attribute.",
+        "ts": "1494512498.010485"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "src? alt?",
+        "ts": "1494512502.011948"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Alternate text.",
+        "ts": "1494512513.017697"
+    },
+    {
+        "type": "message",
+        "user": "U57AF2MQU",
+        "text": "Source.",
+        "ts": "1494512523.022704"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "src is the name of the image file.",
+        "ts": "1494512525.023645"
+    },
+    {
+        "type": "message",
+        "user": "U5866PWNB",
+        "text": "Is it necessary to give width and height ??",
+        "ts": "1494512569.045107"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). (Not that important)",
+        "thread_ts": "1494512581.050767",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U52HJQQMR",
+                "ts": "1494557525.913717"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494561892.441215"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1494512581.050767"
+    },
+    {
+        "type": "message",
+        "user": "U5AT2AH6U",
+        "text": "if we place mouse on image, text shown is given by alt right?",
+        "ts": "1494512582.051658"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "\"Is it necessary to give width and height ?? \"No not necessarily, but you can reformat it to your specification using the width and height attributes",
+        "ts": "1494512625.072244"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Coming to the style attribute.",
+        "ts": "1494512681.099691"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Setting the style of an HTML element, can be done with the style attribute.",
+        "ts": "1494512685.101671"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "You can use this attribute for most elements.",
+        "ts": "1494512705.111493"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Usually, we avoid explicitly mentioning the style for each element and try to use an external document called a StyleSheet (CSS) to determine the style of our elements.",
+        "ts": "1494512767.141893"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;tagname style=\"property:value;\"&gt;",
+        "ts": "1494512786.150961"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The property is a CSS property. The value is a CSS value.",
+        "ts": "1494512799.157132"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "CSS = cascading style sheets. Sagar will cover this in a while",
+        "ts": "1494512819.167068"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So lets take some style examples.",
+        "ts": "1494512871.192371"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Lets say you want a different background color other than the plain borin white.",
+        "ts": "1494512930.221204"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "You can use &lt;body style=\"background-color:powderblue;\"&gt;",
+        "ts": "1494512930.221323"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Or for header text: &lt;h1 style=\"color:blue;\"&gt;This is a heading&lt;\/h1&gt;",
+        "ts": "1494512931.221777"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "paragraph text: &lt;p style=\"color:red;\"&gt;This is a paragraph.&lt;\/p&gt;",
+        "ts": "1494512933.222540"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Suppose you want to change text alignment of the heading: &lt;h1 style=\"text-align:center;\"&gt;Centered Heading&lt;\/h1&gt;",
+        "ts": "1494512975.243149"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "There are a lot of style attributes like these. I can't cover them all obviously. You can easily look it up online. We'll share a few resources later",
+        "ts": "1494513037.274092"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "What if we to change multiple style properties?",
+        "ts": "1494513080.295920"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "You use semicolons (;) to separate them in style attribute.",
+        "ts": "1494513156.332987"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "For example, &lt;h1 style=\"text-align:center; color: red;\"&gt;Centered Heading&lt;\/h1&gt;",
+        "ts": "1494513180.344517"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Are there many kinds of tags?",
+        "thread_ts": "1494513235.371494",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494513303.404818"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494513235.371494"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "yes",
+        "ts": "1494513265.386291"
+    },
+    {
+        "text": "rahul: what exactly do you mean?",
+        "thread_ts": "1494513235.371494",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U59FV35C7",
+            "text": "Are there many kinds of tags?",
+            "thread_ts": "1494513235.371494",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494513303.404818"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1494513235.371494"
+        },
+        "ts": "1494513303.404818"
+    },
+    {
+        "timestamp": "1494513303404818",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "rahul: what exactly do you mean?",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494513235371494",
+                "fallback": "[May 11th, 2017 7:33 AM] rahul: Are there many kinds of tags?",
+                "ts": "1494513235.371494",
+                "author_subname": "rahul",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Are there many kinds of tags?",
+                "author_name": "Rahul Madhogarhia",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/rahul",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/87379e5ab27ad7bc9233b9c3ba18f308.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0009-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "rahul: what exactly do you mean?",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "rahul: what exactly do you mean?",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494513303404818?thread_ts=1494513235371494&cid=C522YS0QZ",
+                "ts": "1494513303.404818",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494513303.404992"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "I mean like for attaching images or posting sound clips like that",
+        "thread_ts": "1494513342.424678",
+        "reply_count": 8,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494513439.471837"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494513492.497434"
+            },
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494513556.528385"
+            },
+            {
+                "user": "U5866PWNB",
+                "ts": "1494513593.546530"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494513638.568364"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494513679.588846"
+            },
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494513732.614928"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494513741.618882"
+            }
+        ],
+        "unread_count": 8,
+        "ts": "1494513342.424678"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "There's just one type of &lt;img&gt; element, but it can have many attributes.",
+        "ts": "1494513391.448867"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "okay",
+        "ts": "1494513416.460260"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "rahul: Yes there are many kinds of tags. Not for the things you mentioned but for making lists, text boxes, buttons, images, check boxes, radio buttons etc",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513439.471837"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Now, you may notice that \"Are there many kinds of tags?\" is highlighted as a link. This can be done using the &lt;a&gt; or the link tag.",
+        "ts": "1494513451.477857"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "HTML links are defined with the &lt;a&gt; tag:\n&lt;a href=\"https:\/\/www.google.com\"&gt;This is a link&lt;\/a&gt;",
+        "ts": "1494513462.482812"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "href is the link address attribute",
+        "ts": "1494513480.491766"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Okay",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513492.497434"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "And \"This is a link\" is what you would view on the screen",
+        "ts": "1494513507.504702"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "But it's not feasible or even required to memorise all these tags all at once. Just remember the basic ones. Search online when need arises.\n\nEach tag also has it's own set of attributes. So it's impossible to remember everything!",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513556.528385"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "To help with styling, we have something known as a class attribute.",
+        "ts": "1494513558.529319"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The HTML class attribute makes it possible to define equal styles for elements with the same class name.",
+        "ts": "1494513572.536189"
+    },
+    {
+        "type": "message",
+        "user": "U5866PWNB",
+        "text": "Can we also post sound clips?",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513593.546530"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So for example we could define the style for a &lt;h1&gt; and &lt;p&gt; tag at once by assigning them to the same class.",
+        "ts": "1494513611.555355"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "yes you can.",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513638.568364"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Can you please clear the term attribute",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513679.588846"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Fine I'll post on main thread",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513732.614928"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Thanks",
+        "thread_ts": "1494513342.424678",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494513741.618882"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;div class=\"cities\"&gt;\n&lt;h2&gt;Paris&lt;\/h2&gt;\n&lt;p&gt;Paris is the capital and most populous city of France.&lt;\/p&gt;\n&lt;\/div&gt;\n\n&lt;div class=\"cities\"&gt;\n&lt;h2&gt;Tokyo&lt;\/h2&gt;\n&lt;p&gt;Tokyo is the capital of Japan, the center of the Greater Tokyo Area,\nand the most populous metropolitan area in the world.&lt;\/p&gt;\n&lt;\/div&gt;",
+        "ts": "1494513811.652992"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "div stands for?",
+        "thread_ts": "1494513871.682283",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494514020.756024"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494513871.682283"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;div&gt; is used to separate the code into blocks. Nothing more than that",
+        "ts": "1494513900.696470"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay so Rahul's doubt : What exactly are attributes?\n\nAttributes are extra pieces of information about html tags. They define some properties of tags.\n\neg. in `&lt;h1 align=\"centre\"&gt;Sample Page&lt;\/h1&gt;`\n\nh1 is the HTML tag.\nalign is an attribute(or property) of that tag.\ncentre is the value of the attribute align",
+        "thread_ts": "1494513911.701994",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U59FV35C7",
+                "ts": "1494514108.799929"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494513911.701994"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "And how do we style the components of a class?",
+        "thread_ts": "1494513925.709050",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494513953.723002"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494513925.709050"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U52KA1B41|aneesh297> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5C6RGTRB\/-.html|Untitled>",
+        "file": {
+            "id": "F5C6RGTRB",
+            "created": 1494513819,
+            "timestamp": 1494513819,
+            "name": "-.html",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "html",
+            "pretty_type": "HTML",
+            "user": "U52KA1B41",
+            "editable": true,
+            "size": 287,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5C6RGTRB\/-.html?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5C6RGTRB\/download\/-.html?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5C6RGTRB\/-.html",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5C6RGTRB-6136b15477",
+            "edit_link": "https:\/\/ieeespwd.slack.com\/files\/aneesh297\/F5C6RGTRB\/-.html\/edit",
+            "preview": "<div class=\"cities\">\r\n<h2>Paris<\/h2>\r\n<p>Paris is the capital and most populous city of France.<\/p>\r\n<\/div>\r\n\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">div<\/span> <span class=\"cm-attribute\">class<\/span>=<span class=\"cm-string\">&quot;cities&quot;<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">h2<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>Paris<span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">h2<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;<\/span><span class=\"cm-tag\">p<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span>Paris is the capital and most populous city of France.<span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">p<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;\/<\/span><span class=\"cm-tag\">div<\/span><span class=\"cm-tag cm-bracket\">&gt;<\/span><\/pre><\/div>\n<div><pre>&#8203;<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 10,
+            "lines_more": 5,
+            "preview_is_truncated": false,
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U52KA1B41",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "aneesh297",
+        "bot_id": null,
+        "ts": "1494513939.715900"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "mahim23: This would be done in CSS. We'll come to that in a few miuntes",
+        "thread_ts": "1494513925.709050",
+        "parent_user_id": "U52GBB6TA",
+        "ts": "1494513953.723002"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "\"And how do we style the components of a class?\" You could do that by mentioning it either in an external CSS file",
+        "ts": "1494513979.735667"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "so can we directly write &lt;class = \"cities\"&gt;?",
+        "attachments": [
+            {
+                "fallback": "[May 11th, 2017 8:15 PM] aneesh297: &lt;div&gt; is used to separate the code into blocks. Nothing more than that",
+                "ts": "1494513900.696470",
+                "author_subname": "aneesh297",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "&lt;div&gt; is used to separate the code into blocks. Nothing more than that",
+                "author_name": "Aneesh Aithal",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494513900696470",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ],
+        "thread_ts": "1494513993.742539",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494514061.776179"
+            },
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494514088.789882"
+            },
+            {
+                "user": "U57DKAK8F",
+                "ts": "1494514110.801127"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1494513993.742539"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;style&gt;\ndiv.cities {\n    background-color: black;\n    color: white;\n    margin: 20px 0 20px 0;\n    padding: 20px;\n} \n&lt;\/style&gt;",
+        "thread_ts": "1494514001.746649",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494514126.809041"
+            },
+            {
+                "user": "U5866PWNB",
+                "ts": "1494514202.847162"
+            },
+            {
+                "user": "U52HJQQMR",
+                "ts": "1494557771.945687"
+            },
+            {
+                "user": "U5866PWNB",
+                "ts": "1494563593.638545"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1494514001.746649"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "suyashghuge: div stands for division! It just separates various blocks of html document. It's mainly used to apply different styles\/formatting to different blocks.\n\nWe'll come to that in  a while",
+        "thread_ts": "1494513871.682283",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494514020.756024"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "No. class is an attribute. Your definition would make it an element.",
+        "thread_ts": "1494513993.742539",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494514061.776179"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "suyashghuge: No you can't. `class` is an attribute and not a tag.",
+        "thread_ts": "1494513993.742539",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494514088.789882"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "sagarb: ok got it",
+        "thread_ts": "1494513911.701994",
+        "parent_user_id": "U552Q5RH6",
+        "ts": "1494514108.799929"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": ":+1:",
+        "thread_ts": "1494513993.742539",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494514110.801127"
+    },
+    {
+        "text": "By doing this, we are specifying what style properties the class \"cities\" will have.",
+        "thread_ts": "1494514001.746649",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U52KA1B41",
+            "text": "&lt;style&gt;\ndiv.cities {\n    background-color: black;\n    color: white;\n    margin: 20px 0 20px 0;\n    padding: 20px;\n} \n&lt;\/style&gt;",
+            "thread_ts": "1494514001.746649",
+            "reply_count": 4,
+            "replies": [
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494514126.809041"
+                },
+                {
+                    "user": "U5866PWNB",
+                    "ts": "1494514202.847162"
+                },
+                {
+                    "user": "U52HJQQMR",
+                    "ts": "1494557771.945687"
+                },
+                {
+                    "user": "U5866PWNB",
+                    "ts": "1494563593.638545"
+                }
+            ],
+            "unread_count": 4,
+            "ts": "1494514001.746649"
+        },
+        "ts": "1494514126.809041"
+    },
+    {
+        "timestamp": "1494514126809041",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "By doing this, we are specifying what style properties the class \"cities\" will have.",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494514001746649",
+                "fallback": "[May 11th, 2017 7:46 AM] aneesh297: &lt;style&gt;\ndiv.cities {\n    background-color: black;\n    color: white;\n    margin: 20px 0 20px 0;\n    padding: 20px;\n} \n&lt;\/style&gt;",
+                "ts": "1494514001.746649",
+                "author_subname": "aneesh297",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "&lt;style&gt;\ndiv.cities {\n    background-color: black;\n    color: white;\n    margin: 20px 0 20px 0;\n    padding: 20px;\n} \n&lt;\/style&gt;",
+                "author_name": "Aneesh Aithal",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "By doing this, we are specifying what style properties the class \"cities\" will have.",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "By doing this, we are specifying what style properties the class \"cities\" will have.",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494514126809041?thread_ts=1494514001746649&cid=C522YS0QZ",
+                "ts": "1494514126.809041",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494514127.809105"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "so will the style tag be within the body tag??",
+        "thread_ts": "1494514172.831534",
+        "reply_count": 6,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494514218.854921"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494514225.858541"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494515469.493393"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516143.827336"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517127.316354"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517297.399593"
+            }
+        ],
+        "unread_count": 6,
+        "ts": "1494514172.831534"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Okay. Sagar will cover more about styling soon. I'll finish up the rest now.",
+        "ts": "1494514192.841738"
+    },
+    {
+        "type": "message",
+        "user": "U5866PWNB",
+        "text": "What is padding?",
+        "thread_ts": "1494514001.746649",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494514202.847162"
+    },
+    {
+        "text": "pratyush82:  No. This is mention in the &lt;head&gt; tag",
+        "thread_ts": "1494514172.831534",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U585PDFSM",
+            "text": "so will the style tag be within the body tag??",
+            "thread_ts": "1494514172.831534",
+            "reply_count": 6,
+            "replies": [
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494514218.854921"
+                },
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494514225.858541"
+                },
+                {
+                    "user": "U59FV35C7",
+                    "ts": "1494515469.493393"
+                },
+                {
+                    "user": "U59FV35C7",
+                    "ts": "1494516143.827336"
+                },
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494517127.316354"
+                },
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494517297.399593"
+                }
+            ],
+            "unread_count": 6,
+            "ts": "1494514172.831534"
+        },
+        "ts": "1494514218.854921"
+    },
+    {
+        "timestamp": "1494514218854921",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "pratyush82:  No. This is mention in the &lt;head&gt; tag",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494514172831534",
+                "fallback": "[May 11th, 2017 7:49 AM] pratyush82: so will the style tag be within the body tag??",
+                "ts": "1494514172.831534",
+                "author_subname": "pratyush82",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "so will the style tag be within the body tag??",
+                "author_name": "Pratyush Karmakar",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/pratyush82",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/397cbd59c3473a349e77c979b719321a.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0012-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "pratyush82:  No. This is mention in the &lt;head&gt; tag",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "pratyush82:  No. This is mention in the &lt;head&gt; tag",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494514218854921?thread_ts=1494514172831534&cid=C522YS0QZ",
+                "ts": "1494514218.854921",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494514218.854991"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "*mentioned",
+        "thread_ts": "1494514172.831534",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494514225.858541"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": ":+1:",
+        "ts": "1494514238.864921"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "We can print lists using several different tags.",
+        "ts": "1494514279.885932"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "An unordered list starts with the &lt;ul&gt; tag. Each list item starts with the &lt;li&gt; tag.\nThe list items will be marked with bullets (small black circles) by default:",
+        "ts": "1494514307.899555"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "For example:",
+        "ts": "1494514312.902010"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;ul&gt;\n  &lt;li&gt;Coffee&lt;\/li&gt;\n  &lt;li&gt;Tea&lt;\/li&gt;\n  &lt;li&gt;Milk&lt;\/li&gt;\n&lt;\/ul&gt;",
+        "ts": "1494514322.906943"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "here again you use styles. ex: &lt;ul style=\"color:blue;\"&gt;",
+        "ts": "1494514382.936927"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "*you can use",
+        "ts": "1494514388.939913"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "You can change the type of bullet by using list-style-type style property",
+        "ts": "1494514430.961065"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "An ordered list starts with the &lt;ol&gt; tag. Each list item starts with the &lt;li&gt; tag.\nThe list items will be marked with numbers by default:",
+        "ts": "1494514454.973461"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Ex:",
+        "ts": "1494514466.978947"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;ol&gt;\n  &lt;li&gt;Coffee&lt;\/li&gt;\n  &lt;li&gt;Tea&lt;\/li&gt;\n  &lt;li&gt;Milk&lt;\/li&gt;\n&lt;\/ol&gt;",
+        "ts": "1494514467.979672"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The type attribute of the &lt;ol&gt; tag, defines the type of the list item marker:",
+        "ts": "1494514540.015750"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;ol type=\"A\"&gt; \tThe list items will be numbered with uppercase letters",
+        "ts": "1494514573.032569"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Lists can also be nested:",
+        "ts": "1494514593.042756"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;ul&gt;\n  &lt;li&gt;Coffee&lt;\/li&gt;\n  &lt;li&gt;Tea\n    &lt;ul&gt;\n      &lt;li&gt;Black tea&lt;\/li&gt;\n      &lt;li&gt;Green tea&lt;\/li&gt;\n    &lt;\/ul&gt;\n  &lt;\/li&gt;\n  &lt;li&gt;Milk&lt;\/li&gt;\n&lt;\/ul&gt;",
+        "ts": "1494514607.050137"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Any doubts so far?",
+        "ts": "1494514635.064448"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "nope",
+        "ts": "1494514650.071773"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "No",
+        "ts": "1494514691.092695"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "no",
+        "ts": "1494514717.105880"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Okay",
+        "thread_ts": "1494514726.110851",
+        "reply_count": 25,
+        "replies": [
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516585.048559"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516594.052871"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516637.074867"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516640.076207"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516654.083097"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516662.087409"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516701.107105"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516733.122523"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516748.130252"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516751.131747"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516764.138446"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516782.147427"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516884.197833"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516909.210169"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516926.218836"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516930.220760"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516963.236819"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516986.247773"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517006.257817"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517027.267502"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517039.273126"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494517149.327024"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494517165.334594"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494517277.390150"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494517334.417988"
+            }
+        ],
+        "unread_count": 25,
+        "ts": "1494514726.110851"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Moving on to forms.",
+        "ts": "1494514735.115610"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "After this sagar will teach you guys about CSS.",
+        "ts": "1494514781.138413"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The HTML &lt;form&gt; element defines a form that is used to collect user input:",
+        "ts": "1494514806.152502"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "An HTML form contains form elements.",
+        "ts": "1494514827.164560"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Form elements are different types of input elements, like text fields, checkboxes, radio buttons, submit buttons, and more.",
+        "ts": "1494514840.172167"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The &lt;input&gt; element is the most important form element.",
+        "ts": "1494514854.179722"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The &lt;input&gt; element can be displayed in several ways, depending on the type attribute. Ex: radio-button, text submit",
+        "ts": "1494514898.203174"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;input type=\"text\"&gt; defines a one-line input field for text input:",
+        "ts": "1494514912.210661"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "So an example form might look like this: \n&lt;form action=\"\/action_page.php\"&gt;\n  First name:&lt;br&gt;\n  &lt;input type=\"text\" name=\"firstname\" value=\"Mickey\"&gt;&lt;br&gt;\n  Last name:&lt;br&gt;\n  &lt;input type=\"text\" name=\"lastname\" value=\"Mouse\"&gt;&lt;br&gt;&lt;br&gt;\n  &lt;input type=\"submit\" value=\"Submit\"&gt;\n&lt;\/form&gt;",
+        "ts": "1494514952.231942"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Where action is the action taken by the browser after clicking submit",
+        "thread_ts": "1494514971.241853",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494515089.303347"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494514971.241853"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Sagar will be taking over now.",
+        "ts": "1494515011.262492"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "&lt;form action=\"\/action_page.php\"&gt; what is this?",
+        "thread_ts": "1494515033.274558",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494515135.325683"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494515033.274558"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "what is &lt;br&gt;?",
+        "thread_ts": "1494515034.274671",
+        "reply_count": 3,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494515147.331608"
+            },
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494515149.332540"
+            },
+            {
+                "user": "U585PDFSM",
+                "ts": "1494515186.349129"
+            }
+        ],
+        "unread_count": 3,
+        "ts": "1494515034.274671"
+    },
+    {
+        "text": "action is the action taken by the browser after clicking submit. Maybe going to a new page. Or sending information to a server.",
+        "thread_ts": "1494514971.241853",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U52KA1B41",
+            "text": "Where action is the action taken by the browser after clicking submit",
+            "thread_ts": "1494514971.241853",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494515089.303347"
+                }
+            ],
+            "unread_count": 1,
+            "ts": "1494514971.241853"
+        },
+        "ts": "1494515089.303347"
+    },
+    {
+        "timestamp": "1494515089303347",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "action is the action taken by the browser after clicking submit. Maybe going to a new page. Or sending information to a server.",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494514971241853",
+                "fallback": "[May 11th, 2017 8:02 AM] aneesh297: Where action is the action taken by the browser after clicking submit",
+                "ts": "1494514971.241853",
+                "author_subname": "aneesh297",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "Where action is the action taken by the browser after clicking submit",
+                "author_name": "Aneesh Aithal",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "action is the action taken by the browser after clicking submit. Maybe going to a new page. Or sending information to a server.",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "action is the action taken by the browser after clicking submit. Maybe going to a new page. Or sending information to a server.",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494515089303347?thread_ts=1494514971241853&cid=C522YS0QZ",
+                "ts": "1494515089.303347",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494515090.303411"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "suyashghuge: Okay so when we obtain some data from the user in the form, the data will have to be sent to the backend. So the url to which data is to be sent in mentioned in action",
+        "thread_ts": "1494515033.274558",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494515135.325683"
+    },
+    {
+        "text": "pratyush82: &lt;br&gt; is a line break tag. The &lt;br&gt; tag inserts a single line break.\nThe &lt;br&gt; tag is an empty tag which means that it has no end tag. ie. No need for &lt;\/br&gt;",
+        "thread_ts": "1494515034.274671",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U585PDFSM",
+            "text": "what is &lt;br&gt;?",
+            "thread_ts": "1494515034.274671",
+            "reply_count": 3,
+            "replies": [
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494515147.331608"
+                },
+                {
+                    "user": "U552Q5RH6",
+                    "ts": "1494515149.332540"
+                },
+                {
+                    "user": "U585PDFSM",
+                    "ts": "1494515186.349129"
+                }
+            ],
+            "unread_count": 3,
+            "ts": "1494515034.274671"
+        },
+        "ts": "1494515147.331608"
+    },
+    {
+        "timestamp": "1494515147331608",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "pratyush82: &lt;br&gt; is a line break tag. The &lt;br&gt; tag inserts a single line break.\nThe &lt;br&gt; tag is an empty tag which means that it has no end tag. ie. No need for &lt;\/br&gt;",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494515034274671",
+                "fallback": "[May 11th, 2017 8:03 AM] pratyush82: what is &lt;br&gt;?",
+                "ts": "1494515034.274671",
+                "author_subname": "pratyush82",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "what is &lt;br&gt;?",
+                "author_name": "Pratyush Karmakar",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/pratyush82",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/397cbd59c3473a349e77c979b719321a.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0012-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "1 reply"
+            },
+            {
+                "fallback": "pratyush82: &lt;br&gt; is a line break tag. The &lt;br&gt; tag inserts a single line break.\nThe &lt;br&gt; tag is an empty tag which means that it has no end tag. ie. No need for &lt;\/br&gt;",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "pratyush82: &lt;br&gt; is a line break tag. The &lt;br&gt; tag inserts a single line break.\nThe &lt;br&gt; tag is an empty tag which means that it has no end tag. ie. No need for &lt;\/br&gt;",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494515147331608?thread_ts=1494515034274671&cid=C522YS0QZ",
+                "ts": "1494515147.331608",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494515147.331676"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "pratyush82: Line break",
+        "thread_ts": "1494515034.274671",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494515149.332540"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": ":+1:",
+        "thread_ts": "1494515034.274671",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494515186.349129"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay so I'll be taking over now!",
+        "ts": "1494515193.353143"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "There are many more HTML tags but we'll won't cover them, We'll use them when needed",
+        "ts": "1494515219.366120"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Now onto CSS",
+        "ts": "1494515223.368317"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "CSS stands for Cascading style Sheet.",
+        "ts": "1494515244.380408"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "So as developers, we should always strive to separate different components of our project.",
+        "ts": "1494515253.384792"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "In developing front end, there are two main things we should cocentrate on :\n*Content* and *Formatting* of that content.",
+        "ts": "1494515273.395462"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "We use *html* to *structure* the content of our web page.",
+        "ts": "1494515296.406540"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*CSS* to *format* them.",
+        "ts": "1494515308.412836"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U552Q5RH6|sagarb> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt|Untitled> and commented: All of you copy this HTML code snippet",
+        "file": {
+            "id": "F5BH92Q57",
+            "created": 1494515363,
+            "timestamp": 1494515363,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U552Q5RH6",
+            "editable": true,
+            "size": 500,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BH92Q57\/-.txt?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BH92Q57\/download\/-.txt?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BH92Q57-b83c49a773",
+            "edit_link": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt\/edit",
+            "preview": "<html>\r\n    <head>\r\n        <title>Sample page<\/title>\r\n        <!-- <link rel=\"stylesheet\" href=\"styles.css\" \/> -->\r\n    <\/head>\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&lt;html&gt;<\/pre><\/div>\n<div><pre>    &lt;head&gt;<\/pre><\/div>\n<div><pre>        &lt;title&gt;Sample page&lt;\/title&gt;<\/pre><\/div>\n<div><pre>        &lt;!-- &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; \/&gt; --&gt;<\/pre><\/div>\n<div><pre>    &lt;\/head&gt;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 21,
+            "lines_more": 16,
+            "preview_is_truncated": false,
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "Fc5BEA4L8G",
+                "created": 1494515363,
+                "timestamp": 1494515363,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "All of you copy this HTML code snippet"
+            }
+        },
+        "user": "U552Q5RH6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "sagarb",
+        "bot_id": null,
+        "ts": "1494515369.443605"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Open a text editor (eg. Notepad) and paste it there!",
+        "ts": "1494515423.470150"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Style attributes have a separate tag?with the name \"head\"?",
+        "thread_ts": "1494514172.831534",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494515469.493393"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Save the file as `sample.html`. When saving make sure the `file type` is `All files` and not `Text Document`",
+        "ts": "1494515471.493932"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Everybody Done?",
+        "ts": "1494515491.504013"
+    },
+    {
+        "type": "message",
+        "user": "U5AT2AH6U",
+        "text": "Yea",
+        "ts": "1494515504.510520"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494515545.531057"
+    },
+    {
+        "type": "message",
+        "user": "U53NLR7B3",
+        "text": "yeah",
+        "ts": "1494515547.532386"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yes",
+        "ts": "1494515561.538912"
+    },
+    {
+        "type": "message",
+        "user": "U5B8B4CBA",
+        "text": "yes",
+        "ts": "1494515563.539808"
+    },
+    {
+        "type": "message",
+        "user": "U53MW3E0G",
+        "text": "yes",
+        "ts": "1494515566.541248"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Now, open the file. It should open in a web browser by defualt.",
+        "ts": "1494515571.544105"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U57BNJK7G|abhishek> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt|Untitled>: what is id there?",
+        "file": {
+            "id": "F5BH92Q57",
+            "created": 1494515363,
+            "timestamp": 1494515363,
+            "name": "-.txt",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U552Q5RH6",
+            "editable": true,
+            "size": 500,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BH92Q57\/-.txt?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BH92Q57\/download\/-.txt?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BH92Q57-b83c49a773",
+            "edit_link": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BH92Q57\/-.txt\/edit",
+            "preview": "<html>\r\n    <head>\r\n        <title>Sample page<\/title>\r\n        <!-- <link rel=\"stylesheet\" href=\"styles.css\" \/> -->\r\n    <\/head>\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&lt;html&gt;<\/pre><\/div>\n<div><pre>    &lt;head&gt;<\/pre><\/div>\n<div><pre>        &lt;title&gt;Sample page&lt;\/title&gt;<\/pre><\/div>\n<div><pre>        &lt;!-- &lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; \/&gt; --&gt;<\/pre><\/div>\n<div><pre>    &lt;\/head&gt;<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 21,
+            "lines_more": 16,
+            "preview_is_truncated": false,
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 2,
+            "initial_comment": {
+                "id": "Fc5BEA4L8G",
+                "created": 1494515363,
+                "timestamp": 1494515363,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "All of you copy this HTML code snippet"
+            }
+        },
+        "comment": {
+            "id": "Fc5BEDBJG0",
+            "created": 1494515627,
+            "timestamp": 1494515627,
+            "user": "U57BNJK7G",
+            "is_intro": false,
+            "comment": "what is id there?"
+        },
+        "is_intro": false,
+        "ts": "1494515626.570182"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "I'll tell everything in a while!",
+        "ts": "1494515651.583356"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U552Q5RH6|sagarb> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHDF1LH\/screenshot_from_2017-05-11_20-44-36.png|Screenshot.png> and commented: It should look like this",
+        "file": {
+            "id": "F5BHDF1LH",
+            "created": 1494515710,
+            "timestamp": 1494515710,
+            "name": "Screenshot from 2017-05-11 20-44-36.png",
+            "title": "Screenshot.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 30223,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHDF1LH\/screenshot_from_2017-05-11_20-44-36.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHDF1LH\/download\/screenshot_from_2017-05-11_20-44-36.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHDF1LH-1f896aa97e\/screenshot_from_2017-05-11_20-44-36_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHDF1LH\/screenshot_from_2017-05-11_20-44-36.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHDF1LH-d3dcdfe72a",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc5C2HUNAF",
+                "created": 1494515710,
+                "timestamp": 1494515710,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "It should look like this"
+            }
+        },
+        "user": "U552Q5RH6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "sagarb",
+        "bot_id": null,
+        "ts": "1494515725.620349"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Is everybody getting this?",
+        "ts": "1494515753.634068"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494515758.636802"
+    },
+    {
+        "type": "message",
+        "user": "U53NLR7B3",
+        "text": "yes",
+        "ts": "1494515769.642332"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay fine",
+        "ts": "1494515770.642389"
+    },
+    {
+        "type": "message",
+        "user": "U52GL5UQ0",
+        "text": "yes",
+        "ts": "1494515772.643821"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Now, we move on to CSS and see how it can format this web page.",
+        "ts": "1494515792.653554"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yeh fine",
+        "ts": "1494515848.680818"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "\"The type attribute of the &lt;ol&gt; tag, defines the type of the list item marker:\n&lt;ol type=\"A\"&gt;     The list items will be numbered with uppercase letters\"...What does this mean?",
+        "thread_ts": "1494515854.683511",
+        "reply_count": 5,
+        "replies": [
+            {
+                "user": "U52KA1B41",
+                "ts": "1494515942.727617"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494515967.739537"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516029.770456"
+            },
+            {
+                "user": "U52KA1B41",
+                "ts": "1494516084.797842"
+            },
+            {
+                "user": "U59FV35C7",
+                "ts": "1494516091.801294"
+            }
+        ],
+        "unread_count": 5,
+        "ts": "1494515854.683511"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U552Q5RH6|sagarb> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5CUTS32T\/-.css|Untitled> and commented: Copy this.Paste it in a text editor and save it as `style.css`. (`All files` type)",
+        "file": {
+            "id": "F5CUTS32T",
+            "created": 1494515861,
+            "timestamp": 1494515861,
+            "name": "-.css",
+            "title": "Untitled",
+            "mimetype": "text\/plain",
+            "filetype": "css",
+            "pretty_type": "CSS",
+            "user": "U552Q5RH6",
+            "editable": true,
+            "size": 1605,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5CUTS32T\/-.css?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5CUTS32T\/download\/-.css?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5CUTS32T\/-.css",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5CUTS32T-62d8c3e943",
+            "edit_link": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5CUTS32T\/-.css\/edit",
+            "preview": "body{\r\n    font-family: tahoma;\r\n    color: #FFFFFF;\r\n    background: #0d1521;\r\n}\r",
+            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\\u200b\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-tag\">body<\/span>{<\/pre><\/div>\n<div><pre>    <span class=\"cm-property\">font-family<\/span>: <span class=\"cm-variable\">tahoma<\/span>;<\/pre><\/div>\n<div><pre>    <span class=\"cm-property\">color<\/span>: <span class=\"cm-atom\">#FFFFFF<\/span>;<\/pre><\/div>\n<div><pre>    <span class=\"cm-property\">background<\/span>: <span class=\"cm-atom\">#0d1521<\/span>;<\/pre><\/div>\n<div><pre>}<\/pre><\/div>\n<\/div>\n<\/div>\n",
+            "lines": 89,
+            "lines_more": 84,
+            "preview_is_truncated": true,
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc5BHFH1C1",
+                "created": 1494515861,
+                "timestamp": 1494515861,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Copy this.Paste it in a text editor and save it as `style.css`. (`All files` type)"
+            }
+        },
+        "user": "U552Q5RH6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "sagarb",
+        "bot_id": null,
+        "ts": "1494515867.690090"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "i didnt understand line 4 and use of id in the code you had sent",
+        "thread_ts": "1494515872.692552",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494515908.710340"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494515872.692552"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "suyashghuge: yes I'll be explaining everything everything in a while",
+        "thread_ts": "1494515872.692552",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494515908.710340"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "All of you downloaded and created CSS file?",
+        "ts": "1494515929.720690"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "rahul: Means that your list will be ordered using uppercase letters. That's all. Ex:\nA. Hi",
+        "thread_ts": "1494515854.683511",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494515942.727617"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yup",
+        "ts": "1494515956.734428"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "B. Hello\nC. hey\nD.  howdy",
+        "thread_ts": "1494515854.683511",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494515967.739537"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494515972.741740"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Save the css file in the same folder as the html",
+        "ts": "1494515983.747146"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Shall I proceed?",
+        "ts": "1494516006.758649"
+    },
+    {
+        "type": "message",
+        "user": "U5AT2AH6U",
+        "text": "What s hover?",
+        "ts": "1494516006.758860"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "oh ok....so we just need to write the first letter of the whole series...like it was written &lt;ol type=A\" right",
+        "thread_ts": "1494515854.683511",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494516029.770456"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay I'll be explaining everything. But for now don't worry about it! Create those two fles",
+        "ts": "1494516050.780537"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*files",
+        "ts": "1494516052.781572"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Shall I proceed?",
+        "ts": "1494516068.789582"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yes",
+        "ts": "1494516083.797299"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "yep",
+        "thread_ts": "1494515854.683511",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494516084.797842"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494516086.799178"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "okk",
+        "thread_ts": "1494515854.683511",
+        "parent_user_id": "U59FV35C7",
+        "ts": "1494516091.801294"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Others??",
+        "ts": "1494516112.812146"
+    },
+    {
+        "type": "message",
+        "user": "U53NLR7B3",
+        "text": "yeah",
+        "ts": "1494516122.816763"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yeah",
+        "ts": "1494516131.821657"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "Answer please?",
+        "thread_ts": "1494514172.831534",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494516143.827336"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay now, open the html file in text editor again!",
+        "ts": "1494516143.827471"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Line 4 : \n`&lt;!-- &lt;link rel=\"stylesheet\" href=\"styles.css\" \/&gt; --&gt;`\n\n\nChange line 4 to : \n`&lt;link rel=\"stylesheet\" href=\"styles.css\" \/&gt;`\n\nComments in HTML are written as `&lt;!-- Some Comment --&gt;`. (I hope you all know what comments are)\n\nWhat we are doing here is uncommenting that line. That's all",
+        "ts": "1494516268.889632"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Done??",
+        "ts": "1494516284.897431"
+    },
+    {
+        "type": "message",
+        "user": "U53MW3E0G",
+        "text": "yeah",
+        "ts": "1494516301.905601"
+    },
+    {
+        "type": "message",
+        "user": "U53NLR7B3",
+        "text": "yes",
+        "ts": "1494516317.914127"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494516330.920631"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yes",
+        "ts": "1494516335.923417"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "But nothing changed",
+        "ts": "1494516344.927533"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yes",
+        "ts": "1494516351.931314"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U552Q5RH6|sagarb> uploaded a file: <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png> and commented: Now if you open the html file in a web browser, it should look like this!",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "user": "U552Q5RH6",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "sagarb",
+        "bot_id": null,
+        "ts": "1494516372.941655"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "You have to reload the page!",
+        "thread_ts": "1494516391.951056",
+        "reply_count": 1,
+        "replies": [
+            {
+                "user": "U52GBB6TA",
+                "ts": "1494516423.967368"
+            }
+        ],
+        "unread_count": 1,
+        "ts": "1494516391.951056"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "No sorry I named the stylesheet as \"style\" instead of \"styles\"",
+        "ts": "1494516416.963896"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "sagarb: I KNOW",
+        "thread_ts": "1494516391.951056",
+        "parent_user_id": "U552Q5RH6",
+        "ts": "1494516423.967368"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay so all done??",
+        "ts": "1494516480.996226"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yah done",
+        "ts": "1494516487.999303"
+    },
+    {
+        "type": "message",
+        "user": "U5B8B4CBA",
+        "text": "Yes",
+        "ts": "1494516492.001865"
+    },
+    {
+        "type": "message",
+        "user": "U53MW3E0G",
+        "text": "yes",
+        "ts": "1494516493.002790"
+    },
+    {
+        "type": "message",
+        "user": "U5479Q8KV",
+        "text": "Yes",
+        "ts": "1494516512.011705"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494516516.013610"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yes",
+        "ts": "1494516557.034061"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay so this is the power of CSS. It can format a simple HTML page into a good looking page!",
+        "ts": "1494516558.034957"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "aneesh297: So an example form might look like this: \n&lt;form action=\"\/action_page.php\"&gt;\n  First name:&lt;br&gt;\n  &lt;input type=\"text\" name=\"firstname\" value=\"Mickey\"&gt;&lt;br&gt;\n  Last name:&lt;br&gt;\n  &lt;input type=\"text\" name=\"lastname\" value=\"Mouse\"&gt;&lt;br&gt;&lt;br&gt;\n  &lt;input type=\"submit\" value=\"Submit\"&gt;\n&lt;\/form&gt;",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516585.048559"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "I didnt get it",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516594.052871"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Now let me tell you exactly what CSS is, how we use it and I'll give a brief run through the code snippet I posted!",
+        "ts": "1494516599.055079"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "what did you not get?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516637.074867"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "&lt;br&gt; what is this? and in the last second line why type=submit?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516640.076207"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "The basic syntax of CSS include : \n1. Selector\n2. property\n3. Value",
+        "ts": "1494516650.080928"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "it should be type=text only right?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516654.083097"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "&lt;br&gt; is a line break. Think of it as a simple ENTER",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516662.087409"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*Selector* : Selects HTML elements to be formatted.",
+        "ts": "1494516687.100083"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "its a tag or what?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516701.107105"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*Property* : The properties of the selected element to be altered",
+        "ts": "1494516722.117321"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Yep",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516733.122523"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*Value* : The value of the property",
+        "ts": "1494516733.122774"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Anything enclosed within a &lt;&gt; is a tage",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516748.130252"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "*tag",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516751.131747"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "A tag can have several attributes though.",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516764.138446"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Example : \n```\nbody{\n    font-family: tahoma;\n    color: #FFFFFF;\n    background: #0d1521;\n}\n```",
+        "ts": "1494516781.146536"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "so the body should end with &lt;\/br&gt; right",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516782.147427"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "(Taken from the CSS file I posted)",
+        "ts": "1494516792.152158"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Here, \n`body` is *selector*\n`font-family`, `color`, `background` are *properties*\n`tahoma`, `#FFFFFF`, `#0d1521` are *values*",
+        "ts": "1494516862.186914"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The &lt;br&gt; tag is an empty tag which means that it has no end tag. ie. No need for &lt;\/br&gt;",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516884.197833"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "oh ok....and the last second line..",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516909.210169"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "That is in this part of CSS, we are formatting the body element of HTML document.",
+        "ts": "1494516914.212951"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "Submit?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516926.218836"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "what about it?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516930.220760"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "First we'll learn about the syntax to write *selectors*",
+        "ts": "1494516960.235192"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "that \"type=submit\" thing....it should be type=text only right",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516963.236819"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "because \"submit\" is \"text\" only right",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494516986.247773"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "```",
+        "ts": "1494516990.249963"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "#choice{\n    position: relative;\n    transform: translateY(30%);\n    width: 95%;\n    background: #090d13;\n    margin: 0 auto;\n    padding: 20px;\n    box-sizing: border-box;\n}",
+        "ts": "1494516993.250986"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "```",
+        "ts": "1494516998.253480"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "No. It creates a button called submit. Not a form field.",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517006.257817"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "<https:\/\/www.w3schools.com\/html\/tryit.asp?filename=tryhtml_form_submit>",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517027.267502"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "The source code is in this link. You can visualize it better now",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517039.273126"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "See the above code. We've used `#choice` as selector. Now what does `#` mean?",
+        "ts": "1494517042.274867"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Here `#choice` selects all elements whose `id` attribute has value `choice`",
+        "ts": "1494517079.292913"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "I think sagar must have answered this the css intro",
+        "thread_ts": "1494514172.831534",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494517127.316354"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "ok got it....and style attributes are written in tag named \"head\"?",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517149.327024"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "If you go back to out HTML document, you'll notice the `div` element has `id` set to `choice`. So that element will be selected and formatted",
+        "ts": "1494517153.328872"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "yep",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517165.334594"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Similary, you can use `.` to select an element with a specific `class` attribute.\n\nExample : \n```\n.hello{\n}\n```\n\nWill select all elements with attribute class",
+        "ts": "1494517231.367354"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "ok",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517277.390150"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "*in the css intro",
+        "thread_ts": "1494514172.831534",
+        "parent_user_id": "U585PDFSM",
+        "ts": "1494517297.399593"
+    },
+    {
+        "type": "message",
+        "user": "U59FV35C7",
+        "text": "uhh.....Can you please slow down the pace of the course.....its taking time to read and understand everything",
+        "thread_ts": "1494514726.110851",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494517334.417988"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Now in that CSS file you've downloaded, you'll find some special selectors.\n```\n#lichoice:hover{\n    text-align: center;\n    background: rgb(0,0,0);\n}\n```\nSo here, `#lichoice` selects all elements with `id` set to `lichoice`. What does `:hover` do?",
+        "ts": "1494517387.444371"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "`#lichoice:hover` is called a *psudo-selector*. It formats elements when they are in a particular _state_.",
+        "ts": "1494517445.473154"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": "but li already comes under the id choice..so shouldnt it follow the #choice properties?",
+        "thread_ts": "1494517503.501968",
+        "reply_count": 4,
+        "replies": [
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494517675.586303"
+            },
+            {
+                "user": "U52GBB6TA",
+                "ts": "1494517677.587450"
+            },
+            {
+                "user": "U57DKAK8F",
+                "ts": "1494517698.598567"
+            },
+            {
+                "user": "U552Q5RH6",
+                "ts": "1494517727.612775"
+            }
+        ],
+        "unread_count": 4,
+        "ts": "1494517503.501968"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Example : In the HTML doc I sent, you'll notice the list elements change color when you move your mouse over them.\n\nThis is because, we have specified different formatting for `hover state` (ie. when mouse is over that element) and normal state(ie. when mouse is not over the element)",
+        "ts": "1494517572.536367"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "suyashghuge: Yes it is formatted using #choice properties also. In addition we are specifying some properties in #lichoice.\n\nIt's like inheritance. Child elements inherit properties of parents plus they have their own properties",
+        "thread_ts": "1494517503.501968",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494517675.586303"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "suyashghuge: We're overriding those properties",
+        "thread_ts": "1494517503.501968",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494517677.587450"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": ":+1:",
+        "thread_ts": "1494517503.501968",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494517698.598567"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Yes overriding happens if there is a conflict!",
+        "thread_ts": "1494517503.501968",
+        "parent_user_id": "U57DKAK8F",
+        "ts": "1494517727.612775"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Is everyone with me now?",
+        "ts": "1494517742.620434"
+    },
+    {
+        "type": "message",
+        "user": "U57DKAK8F",
+        "text": ":+1:",
+        "ts": "1494517753.625928"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494517761.629528"
+    },
+    {
+        "type": "message",
+        "user": "U5C5SLR29",
+        "text": "yes",
+        "ts": "1494517769.633233"
+    },
+    {
+        "type": "message",
+        "user": "U57BNJK7G",
+        "text": "yes",
+        "ts": "1494517785.641462"
+    },
+    {
+        "type": "message",
+        "user": "U5B8B4CBA",
+        "text": "yes",
+        "ts": "1494517802.650181"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "There are many different types of selectors. We'll be sending links. You can read about them online. After this I hope atleast selectors used in that document are clear",
+        "ts": "1494517884.691108"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Okay now moving onto *properties* and *values*",
+        "ts": "1494517917.706858"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "*Properties* and *Values* are pretty self explanatory and need no explanation I think! Things like `color` is used to set color property is pretty obvious. Also each property can take many types of values.\n\nThe thing is you can always search the Internet for a property and the type of values it takes. So you not memorise them. Remember just the basic ones.\n\nBut selectors are more important. You have to write selectors so they suit your custom needs. That is, so they are in accordance with the HTML file you've written. So you should know different techniques used to select elements",
+        "ts": "1494518187.840155"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "I'll just go through some basic properties.",
+        "ts": "1494518230.861316"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "`color` : color takes different types of values. I mostly use hexadecimal.\nFor example black can be assigned as follows : \n\n`color : black;`\n`color : #000000;`",
+        "ts": "1494518307.900156"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "`color : rgb(0,0,0);`",
+        "ts": "1494518317.904729"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "I use hexadecimal because you can easily get hexadecimal values of any color using Google's color picker.\n\n<https:\/\/www.google.co.in\/search?q=%23ffffff&amp;oq=%23ffffff&amp;gs_l=serp.3..35i39k1.2341.2737.0.3362.3.3.0.0.0.0.129.376.0j3.3.0....0...1.1.64.serp..0.3.376...0.M1iWv9_Zzjc>",
+        "ts": "1494518401.947163"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Some other common properties are `margin` and `padding`. Learn about the differences between them. Both are used to space different elements properly on screen",
+        "ts": "1494518486.991789"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "It's already 9:30",
+        "ts": "1494518549.022711"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "So this is it for today! If you have any doubts you can always PM any of us!",
+        "ts": "1494518582.038534"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Is everything clear today?",
+        "ts": "1494518597.045951"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yup",
+        "ts": "1494518621.056610"
+    },
+    {
+        "type": "message",
+        "user": "U52GL5UQ0",
+        "text": "yes",
+        "ts": "1494518623.057774"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "yes",
+        "ts": "1494518623.057884"
+    },
+    {
+        "type": "message",
+        "user": "U5AT2AH6U",
+        "text": "Yea",
+        "ts": "1494518649.070034"
+    },
+    {
+        "type": "message",
+        "user": "U536M4S7L",
+        "text": "Yes..thanks for the session:grinning:",
+        "ts": "1494518657.074347"
+    },
+    {
+        "type": "message",
+        "user": "U5B8B4CBA",
+        "text": "Yes",
+        "ts": "1494518676.082370"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: its the same as before",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5BJHMY57",
+            "created": 1494518720,
+            "timestamp": 1494518720,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "its the same as before"
+        },
+        "is_intro": false,
+        "ts": "1494518720.103661"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "Thank you for attending the session people! Web development gets very interesting and intense when we get to the backend part! Make sure you attend all those sessions with the same enthusiasm",
+        "ts": "1494518728.107405",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U536M4S7L",
+                    "U5866PWNB",
+                    "U585PDFSM",
+                    "U52HJQQMR"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U552Q5RH6|sagarb> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: Are you sure you named the file as `styles.css` and placed it in the same folder as the HTML?",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5CVCND6J",
+            "created": 1494518811,
+            "timestamp": 1494518811,
+            "user": "U552Q5RH6",
+            "is_intro": false,
+            "comment": "Are you sure you named the file as `styles.css` and placed it in the same folder as the HTML?"
+        },
+        "is_intro": false,
+        "ts": "1494518810.145985"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U52KA1B41|aneesh297> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: Did you name your css file \"styles.css\"? Did you uncomment that line in HTML doc?",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5CVCSUA2",
+            "created": 1494518828,
+            "timestamp": 1494518828,
+            "user": "U52KA1B41",
+            "is_intro": false,
+            "comment": "Did you name your css file \"styles.css\"? Did you uncomment that line in HTML doc?"
+        },
+        "is_intro": false,
+        "ts": "1494518828.154324"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: i did the uncommenting but i opened the sample.html file",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5BJKMKLH",
+            "created": 1494518880,
+            "timestamp": 1494518880,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "i did the uncommenting but i opened the sample.html file"
+        },
+        "is_intro": false,
+        "ts": "1494518880.178448"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U552Q5RH6|sagarb> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: You are supposed to uncomment in `sample.html` only!",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5D0JH9HV",
+            "created": 1494518926,
+            "timestamp": 1494518926,
+            "user": "U552Q5RH6",
+            "is_intro": false,
+            "comment": "You are supposed to uncomment in `sample.html` only!"
+        },
+        "is_intro": false,
+        "ts": "1494518926.198398"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: ya i did that",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5BFMGQ3A",
+            "created": 1494518956,
+            "timestamp": 1494518956,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "ya i did that"
+        },
+        "is_intro": false,
+        "ts": "1494518955.213334"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: and i named the file as styles.css only",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5C7ARC4C",
+            "created": 1494518971,
+            "timestamp": 1494518971,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "and i named the file as styles.css only"
+        },
+        "is_intro": false,
+        "ts": "1494518970.220156"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U52KA1B41|aneesh297> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: are they in the same folder?",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5C5WH3L2",
+            "created": 1494519030,
+            "timestamp": 1494519030,
+            "user": "U52KA1B41",
+            "is_intro": false,
+            "comment": "are they in the same folder?"
+        },
+        "is_intro": false,
+        "ts": "1494519030.247072"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: yes",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5D0KQG3H",
+            "created": 1494519040,
+            "timestamp": 1494519040,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "yes"
+        },
+        "is_intro": false,
+        "ts": "1494519040.251643"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U59FV35C7|rahul> commented on <@U552Q5RH6|sagarb>’s file <https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png|Screenshot from 2017-05-11 20-55-15.png>: do i need to do something with the styles.css file",
+        "file": {
+            "id": "F5BHMRDNV",
+            "created": 1494516366,
+            "timestamp": 1494516366,
+            "name": "Screenshot from 2017-05-11 20-55-15.png",
+            "title": "Screenshot from 2017-05-11 20-55-15.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U552Q5RH6",
+            "editable": false,
+            "size": 34728,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T53DYPEMU-F5BHMRDNV\/download\/screenshot_from_2017-05-11_20-55-15.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_64.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_80.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_360.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_360_w": 360,
+            "thumb_360_h": 206,
+            "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_480.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_480_w": 480,
+            "thumb_480_h": 274,
+            "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_160.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_720.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_720_w": 720,
+            "thumb_720_h": 412,
+            "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_800.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_800_w": 800,
+            "thumb_800_h": 457,
+            "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_960.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_960_w": 960,
+            "thumb_960_h": 549,
+            "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T53DYPEMU-F5BHMRDNV-cd50569e06\/screenshot_from_2017-05-11_20-55-15_1024.png?t=xoxe-173474796742-184415385223-183691078885-ebdf347011",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 586,
+            "image_exif_rotation": 1,
+            "original_w": 1301,
+            "original_h": 744,
+            "permalink": "https:\/\/ieeespwd.slack.com\/files\/sagarb\/F5BHMRDNV\/screenshot_from_2017-05-11_20-55-15.png",
+            "permalink_public": "https:\/\/slack-files.com\/T53DYPEMU-F5BHMRDNV-411c7d8917",
+            "channels": [
+                "C522YS0QZ"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 11,
+            "initial_comment": {
+                "id": "Fc5C6C1QTW",
+                "created": 1494516366,
+                "timestamp": 1494516366,
+                "user": "U552Q5RH6",
+                "is_intro": true,
+                "comment": "Now if you open the html file in a web browser, it should look like this!"
+            }
+        },
+        "comment": {
+            "id": "Fc5BJNG0NM",
+            "created": 1494519121,
+            "timestamp": 1494519121,
+            "user": "U59FV35C7",
+            "is_intro": false,
+            "comment": "do i need to do something with the styles.css file"
+        },
+        "is_intro": false,
+        "ts": "1494519120.288219"
+    },
+    {
+        "type": "message",
+        "user": "U552Q5RH6",
+        "text": "rahul shift to doubts channel",
+        "ts": "1494519125.290402"
+    },
+    {
+        "type": "message",
+        "user": "U52HJQQMR",
+        "text": "srahulsrihari36: there is something called metadata. It says information about the webpage. Notice the tab name once you open the web page:relaxed:",
+        "thread_ts": "1494512206.871117",
+        "parent_user_id": "U5C5SLR29",
+        "ts": "1494557390.895852"
+    },
+    {
+        "type": "message",
+        "user": "U52HJQQMR",
+        "text": "aneesh297: one more thing: such alt tags are supposed to kinda describe the image, as the search engine considers alt tags too, to get search results.",
+        "thread_ts": "1494512581.050767",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494557525.913717"
+    },
+    {
+        "type": "message",
+        "user": "U52HJQQMR",
+        "text": "<@U5866PWNB> padding:20px would give 20px of blank space inside the border in all 4 sides. ",
+        "thread_ts": "1494514001.746649",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494557771.945687"
+    },
+    {
+        "text": "oh cool. Didn't know that",
+        "thread_ts": "1494512581.050767",
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "user": "U52KA1B41",
+        "root": {
+            "type": "message",
+            "user": "U52KA1B41",
+            "text": "The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). (Not that important)",
+            "thread_ts": "1494512581.050767",
+            "reply_count": 2,
+            "replies": [
+                {
+                    "user": "U52HJQQMR",
+                    "ts": "1494557525.913717"
+                },
+                {
+                    "user": "U52KA1B41",
+                    "ts": "1494561892.441215"
+                }
+            ],
+            "unread_count": 2,
+            "ts": "1494512581.050767"
+        },
+        "ts": "1494561892.441215"
+    },
+    {
+        "timestamp": "1494561892441215",
+        "is_multiteam": false,
+        "slog_is_shared": "0",
+        "slog_is_mpdm": "0",
+        "slog_is_slackbot_dm": false,
+        "slog_is_self_dm": false,
+        "is_thread_broadcast": true,
+        "plain_text": "oh cool. Didn't know that",
+        "new_broadcast": true,
+        "attachments": [
+            {
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494512581050767",
+                "fallback": "[May 11th, 2017 7:23 AM] aneesh297: The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). (Not that important)",
+                "ts": "1494512581.050767",
+                "author_subname": "aneesh297",
+                "channel_id": "C522YS0QZ",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). (Not that important)",
+                "author_name": "Aneesh Aithal",
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "2 replies"
+            },
+            {
+                "fallback": "oh cool. Didn't know that",
+                "author_name": "Aneesh Aithal",
+                "author_subname": "aneesh297",
+                "text": "oh cool. Didn't know that",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "author_link": "https:\/\/ieeespwd.slack.com\/team\/aneesh297",
+                "from_url": "https:\/\/ieeespwd.slack.com\/archives\/C522YS0QZ\/p1494561892441215?thread_ts=1494512581050767&cid=C522YS0QZ",
+                "ts": "1494561892.441215",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/bed23ab759edd439eb68eb4ac6ace2b2.jpg?s=48&d=https%3A%2F%2Ffst.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+                "id": 2
+            }
+        ],
+        "text": "",
+        "type": "message",
+        "subtype": "reply_broadcast",
+        "user": "U52KA1B41",
+        "ts": "1494561892.441225"
+    },
+    {
+        "type": "message",
+        "user": "U5866PWNB",
+        "text": "Ok",
+        "thread_ts": "1494514001.746649",
+        "parent_user_id": "U52KA1B41",
+        "ts": "1494563593.638545"
+    }
+]

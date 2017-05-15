@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U57BNJK7G",
+        "text": "<@U57BNJK7G|abhishek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493496968.012859"
+    },
+    {
+        "user": "U57DKAK8F",
+        "text": "<@U57DKAK8F|suyashghuge> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493530367.697887"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U548ZLVEW",
+        "text": "<@U548ZLVEW|nishantkr> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493139443.607852"
+    },
+    {
+        "user": "U549B06V8",
+        "text": "<@U549B06V8|arvind111> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493140425.036868"
+    },
+    {
+        "user": "U5479Q8KV",
+        "text": "<@U5479Q8KV|anmolh> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493140772.185952"
+    },
+    {
+        "user": "U554ESJEB",
+        "text": "<@U554ESJEB|vidhikothari> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493141857.665599"
+    },
+    {
+        "user": "U53NLR7B3",
+        "text": "<@U53NLR7B3|mehnaz18> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493142234.831716"
+    },
+    {
+        "user": "U53MW3E0G",
+        "text": "<@U53MW3E0G|pvgupta24> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493148904.752436"
+    }
+]

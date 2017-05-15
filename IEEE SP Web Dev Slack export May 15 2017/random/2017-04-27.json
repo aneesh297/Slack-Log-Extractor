@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U55GZPZPV",
+        "text": "<@U55GZPZPV|mirthunraj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493315402.983057"
+    },
+    {
+        "user": "U552Q5RH6",
+        "text": "<@U552Q5RH6|sagarb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493325687.575919"
+    }
+]

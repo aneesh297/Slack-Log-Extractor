@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U57BNJK7G",
+        "text": "<@U57BNJK7G|abhishek> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494847172.032109"
+    },
+    {
+        "user": "U53NLR7B3",
+        "text": "<@U53NLR7B3|mehnaz18> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494847470.086811"
+    },
+    {
+        "user": "U57AF2MQU",
+        "text": "<@U57AF2MQU|gj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494849287.432564"
+    }
+]

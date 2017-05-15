@@ -1,0 +1,166 @@
+[
+    {
+        "id": "C5CM4ACHX",
+        "name": "bookshelf",
+        "created": "1494767042",
+        "creator": "U52HJQQMR",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U52GBB6TA",
+            "U52HJQQMR",
+            "U52KA1B41",
+            "U536M4S7L",
+            "U53MW3E0G",
+            "U53NLR7B3",
+            "U5479Q8KV",
+            "U549B06V8",
+            "U554ESJEB",
+            "U57AF2MQU",
+            "U57BNJK7G",
+            "U57DKAK8F"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "all the resources will posted here too, for easy access.",
+            "creator": "U52HJQQMR",
+            "last_set": "1494767043"
+        }
+    },
+    {
+        "id": "C5C5XL4SE",
+        "name": "doubts",
+        "created": "1494519112",
+        "creator": "U552Q5RH6",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U52GBB6TA",
+            "U52HJQQMR",
+            "U52KA1B41",
+            "U536M4S7L",
+            "U53MW3E0G",
+            "U53NLR7B3",
+            "U5479Q8KV",
+            "U549B06V8",
+            "U552Q5RH6",
+            "U5866PWNB",
+            "U59FV35C7",
+            "U5AT2AH6U"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C522YS0QZ",
+        "name": "general",
+        "created": "1492783927",
+        "creator": "U52HJQQMR",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U52GBB6TA",
+            "U52GL5UQ0",
+            "U52HJQQMR",
+            "U52KA1B41",
+            "U536M4S7L",
+            "U53MW3E0G",
+            "U53NLR7B3",
+            "U5479Q8KV",
+            "U548ZLVEW",
+            "U549B06V8",
+            "U54M2QJPK",
+            "U54UM5GLU",
+            "U552Q5RH6",
+            "U554ESJEB",
+            "U55GZPZPV",
+            "U56HKB9PS",
+            "U57AF2MQU",
+            "U57BNJK7G",
+            "U57DKAK8F",
+            "U585PDFSM",
+            "U5866PWNB",
+            "U586AT5S8",
+            "U58E0QC15",
+            "U597AC90S",
+            "U59FV35C7",
+            "U5A1N7TGU",
+            "U5AT2AH6U",
+            "U5B8B4CBA",
+            "U5C5SLR29",
+            "U5CT7AE79"
+        ],
+        "topic": {
+            "value": "Company-wide announcements and work-based matters",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C522YS23B",
+        "name": "random",
+        "created": "1492783927",
+        "creator": "U52HJQQMR",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U52GBB6TA",
+            "U52GL5UQ0",
+            "U52HJQQMR",
+            "U52KA1B41",
+            "U536M4S7L",
+            "U53MW3E0G",
+            "U53NLR7B3",
+            "U5479Q8KV",
+            "U548ZLVEW",
+            "U549B06V8",
+            "U54M2QJPK",
+            "U54UM5GLU",
+            "U552Q5RH6",
+            "U554ESJEB",
+            "U55GZPZPV",
+            "U56HKB9PS",
+            "U57AF2MQU",
+            "U57BNJK7G",
+            "U57DKAK8F",
+            "U585PDFSM",
+            "U5866PWNB",
+            "U586AT5S8",
+            "U58E0QC15",
+            "U597AC90S",
+            "U59FV35C7",
+            "U5A1N7TGU",
+            "U5AT2AH6U",
+            "U5B8B4CBA",
+            "U5C5SLR29",
+            "U5CT7AE79"
+        ],
+        "topic": {
+            "value": "Non-work banter and water cooler conversation",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "",
+            "last_set": "0"
+        }
+    }
+]

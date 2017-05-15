@@ -1,0 +1,54 @@
+[
+    {
+        "user": "U52GBB6TA",
+        "text": "<@U52GBB6TA|mahim23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960410.973857"
+    },
+    {
+        "user": "U52KA1B41",
+        "text": "<@U52KA1B41|aneesh297> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960655.990556"
+    },
+    {
+        "user": "U536M4S7L",
+        "text": "<@U536M4S7L|mishal23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960741.996961"
+    },
+    {
+        "type": "message",
+        "user": "U52HJQQMR",
+        "text": "is this visible to everyone? :stuck_out_tongue:",
+        "ts": "1492963687.205962"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "Yes it is",
+        "ts": "1492963719.208410"
+    },
+    {
+        "type": "message",
+        "user": "U536M4S7L",
+        "text": "Yes",
+        "ts": "1492963774.212564"
+    },
+    {
+        "type": "message",
+        "user": "U52HJQQMR",
+        "text": "cool.",
+        "ts": "1492963811.215076"
+    },
+    {
+        "user": "U52GL5UQ0",
+        "text": "<@U52GL5UQ0|omkar_p31> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492964287.249280"
+    }
+]

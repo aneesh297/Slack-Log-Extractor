@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U59FV35C7",
+        "text": "<@U59FV35C7|rahul> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493907089.078691"
+    },
+    {
+        "user": "U585PDFSM",
+        "text": "<@U585PDFSM|pratyush82> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493910364.701257"
+    }
+]

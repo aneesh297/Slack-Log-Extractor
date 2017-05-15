@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U57AF2MQU",
+        "text": "<@U57AF2MQU|gj> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493711147.290594"
+    },
+    {
+        "user": "U5866PWNB",
+        "text": "<@U5866PWNB|manas1998> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493725445.560295"
+    },
+    {
+        "user": "U58E0QC15",
+        "text": "<@U58E0QC15|sanjanak> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493750573.848662"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U52GBB6TA",
+        "text": "<@U52GBB6TA|mahim23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960410.790278"
+    },
+    {
+        "user": "U52KA1B41",
+        "text": "<@U52KA1B41|aneesh297> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960656.807592"
+    },
+    {
+        "user": "U536M4S7L",
+        "text": "<@U536M4S7L|mishal23> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492960741.813531"
+    },
+    {
+        "user": "U52GL5UQ0",
+        "text": "<@U52GL5UQ0|omkar_p31> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1492964287.077353"
+    }
+]

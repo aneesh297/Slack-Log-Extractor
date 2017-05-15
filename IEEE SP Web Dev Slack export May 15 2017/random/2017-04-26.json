@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U54UM5GLU",
+        "text": "<@U54UM5GLU|vanshika> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493222434.760935"
+    },
+    {
+        "user": "U54M2QJPK",
+        "text": "<@U54M2QJPK|pachianil> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1493270684.873335"
+    }
+]

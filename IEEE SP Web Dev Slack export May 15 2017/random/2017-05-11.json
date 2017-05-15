@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U5B8B4CBA",
+        "text": "<@U5B8B4CBA|mehakarora> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494491298.434450"
+    },
+    {
+        "user": "U5C5SLR29",
+        "text": "<@U5C5SLR29|srahulsrihari36> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494511150.524102"
+    },
+    {
+        "user": "U5CT7AE79",
+        "text": "<@U5CT7AE79|samarthb> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494511509.707075"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "btw while this is somewhat boring, it's still essential. Wait till Javascript. That's when the fun begins xD",
+        "ts": "1494516221.130792"
+    },
+    {
+        "type": "message",
+        "user": "U52KA1B41",
+        "text": "hey, do you guys think the pace is a bit too fast?",
+        "ts": "1494517463.778812"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "No its fine",
+        "ts": "1494517483.788477"
+    },
+    {
+        "type": "message",
+        "user": "U52GBB6TA",
+        "text": "(My opinion)",
+        "ts": "1494517497.795861"
+    },
+    {
+        "type": "message",
+        "user": "U585PDFSM",
+        "text": "no...it seems perfect",
+        "ts": "1494518731.423508"
+    }
+]

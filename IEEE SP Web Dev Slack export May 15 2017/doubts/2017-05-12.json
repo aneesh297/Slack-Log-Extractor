@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U5866PWNB",
+        "text": "<@U5866PWNB|manas1998> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494574993.145901"
+    },
+    {
+        "user": "U549B06V8",
+        "text": "<@U549B06V8|arvind111> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494595569.627162"
+    },
+    {
+        "user": "U53NLR7B3",
+        "text": "<@U53NLR7B3|mehnaz18> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1494600585.418296"
+    }
+]
