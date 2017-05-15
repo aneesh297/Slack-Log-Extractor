@@ -1,0 +1,14 @@
+sagarb:  Discuss doubts here!
+sagarb:  <@U59FV35C7> right click in the page and click on Inspect. A pane should open on the right! Send me screenshot
+aneesh297:  and expand the <head> tag before taking a screenshot
+sagarb:  I'll be back after dinner :stuck_out_tongue:
+rahul:  ok
+rahul:  how to expand the tag?
+sagarb:  Click on the small arrow on the left of the tag!
+sagarb:  Also, open sources tab and send screenshot
+rahul:  sorry for the delay
+mahim23:  You havent saved the sample.html after editing it
+rahul:  ya ya got it
+rahul:  i just did that only
+rahul:  now its good
+rahul:  thanks and sorry for the trouble

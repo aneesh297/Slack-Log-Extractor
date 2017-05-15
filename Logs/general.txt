@@ -1,0 +1,444 @@
+viggi:  is this visible to everyone? :stuck_out_tongue:
+mahim23:  Yes it is
+mishal23:  Yes
+viggi:  cool.
+aneesh297:  How many of you are online?
+mishal23:  Me
+mehakarora:  Me
+mahim23:  Me
+mehnaz18:  Me
+nishantkr:  Me
+pratyush82:  me
+anmolh:  Me
+omkar_p31:  Me
+nishantkr:  anmolh: hi Horo Sahab :grin::grin::grin:
+srahulsrihari36:  me
+aneesh297:  Since there's a good number of you right now, let's start
+aneesh297:  So, lets start with what HTML is first. It's essential to know these basics to do any kind of web development.
+aneesh297:  HTML is the standard markup language for creating Web pages.
+anmolh:  Kyu re yaha bhi suru ho gaya
+
+aneesh297:  It stands for Hypertext Markup Language .
+aneesh297:  So what's a markup language and how is it different from a programming language?
+aneesh297:  Markup languages are designed for the processing, definition and presentation of text.
+They are designed not for general purpose programming, but for processing or presentation of text.
+aneesh297:  A simple HTML doc would look like this:
+aneesh297:  You can create and edit HTML documents using a simple text editor like Notepad. Just don't forget to save it as a .html file.
+aneesh297:  Any doubts so far?
+aneesh297:  I'll clarify what each of those parts of the sample code mean in a moment
+aneesh297:  Uh is anybody online?
+mishal23:  aneesh297: No
+mahim23:  No doubts
+manas1998:  No
+aneesh297:  Okay cool
+pratyush82:  yes......no doubts so far
+aneesh297:  So
+aneesh297:  The HTML document itself begins with <html> and ends with </html>.
+aneesh297:  The visible part of the HTML document is between <body> and </body>.
+aneesh297:  These things are called elements.
+aneesh297:  An HTML element usually consists of a start tag and end tag, with the content inserted in between:
+<tagname>Content goes here...</tagname>
+aneesh297:  For example, the paragraph tag:
+<p>Paragraph content</p>
+aneesh297:  In the body, if we want  to have headings, we use any of the <h1> to <h6> tags.
+aneesh297:  Where h1 indicates the most important heading and has the largest font size.
+aneesh297:  <h1> Heading </h1>
+samarthb:  h2 will have smaller size is it?
+aneesh297:  yes
+samarthb:  :+1:
+aneesh297:  Now coming to attributes.
+aneesh297:  Attributes provide additional information about HTML elements.
+srahulsrihari36:  what does it mean by the visible part?? the tag title wont b visible? its out of the body
+samarthb:  Visible on the browser after running i suppose
+aneesh297:  No not the tag. The contents of the tag is visible on the browser.
+pratyush82:  is it more like the webpage name??
+aneesh297:  In other words, you'd put the any of the parts that are actually going to appear on the webpage in the body section
+gj:  No. Whatever you see in the browser was coded within the body part.
+srahulsrihari36:  okay!! thnx
+aneesh297:  gj: yes exactly
+pratyush82:  :+1:
+aneesh297:  okay . about attributes. All HTML elements can have attributes.
+aneesh297:  for example, if you want to display an image, you use the <img></img> tag.
+aneesh297:  *<img> tag
+samarthb:  What do u have inside it? the image name?
+samarthb:  <img> name </img>?
+aneesh297:  So to mention which file you want to use, you mention the image name as an attribute
+aneesh297:  <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;">
+aneesh297:  So src="pic_mountain.jpg" is an attribute.
+suyashghuge:  src? alt?
+aneesh297:  Alternate text.
+gj:  Source.
+aneesh297:  src is the name of the image file.
+manas1998:  Is it necessary to give width and height ??
+aneesh297:  The alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader). (Not that important)
+briny_peddler:  if we place mouse on image, text shown is given by alt right?
+aneesh297:  "Is it necessary to give width and height ?? "No not necessarily, but you can reformat it to your specification using the width and height attributes
+aneesh297:  Coming to the style attribute.
+aneesh297:  Setting the style of an HTML element, can be done with the style attribute.
+aneesh297:  You can use this attribute for most elements.
+aneesh297:  Usually, we avoid explicitly mentioning the style for each element and try to use an external document called a StyleSheet (CSS) to determine the style of our elements.
+aneesh297:  <tagname style="property:value;">
+aneesh297:  The property is a CSS property. The value is a CSS value.
+aneesh297:  CSS = cascading style sheets. Sagar will cover this in a while
+aneesh297:  So lets take some style examples.
+aneesh297:  Lets say you want a different background color other than the plain borin white.
+aneesh297:  You can use <body style="background-color:powderblue;">
+aneesh297:  Or for header text: <h1 style="color:blue;">This is a heading</h1>
+aneesh297:  paragraph text: <p style="color:red;">This is a paragraph.</p>
+aneesh297:  Suppose you want to change text alignment of the heading: <h1 style="text-align:center;">Centered Heading</h1>
+aneesh297:  There are a lot of style attributes like these. I can't cover them all obviously. You can easily look it up online. We'll share a few resources later
+mahim23:  What if we to change multiple style properties?
+aneesh297:  You use semicolons (;) to separate them in style attribute.
+aneesh297:  For example, <h1 style="text-align:center; color: red;">Centered Heading</h1>
+rahul:  Are there many kinds of tags?
+aneesh297:  yes
+rahul:  I mean like for attaching images or posting sound clips like that
+aneesh297:  There's just one type of <img> element, but it can have many attributes.
+rahul:  okay
+sagarb:  rahul: Yes there are many kinds of tags. Not for the things you mentioned but for making lists, text boxes, buttons, images, check boxes, radio buttons etc
+aneesh297:  Now, you may notice that "Are there many kinds of tags?" is highlighted as a link. This can be done using the <a> or the link tag.
+aneesh297:  HTML links are defined with the <a> tag:
+<a href="https://www.google.com">This is a link</a>
+aneesh297:  href is the link address attribute
+rahul:  Okay
+aneesh297:  And "This is a link" is what you would view on the screen
+sagarb:  But it's not feasible or even required to memorise all these tags all at once. Just remember the basic ones. Search online when need arises.
+
+Each tag also has it's own set of attributes. So it's impossible to remember everything!
+aneesh297:  To help with styling, we have something known as a class attribute.
+aneesh297:  The HTML class attribute makes it possible to define equal styles for elements with the same class name.
+manas1998:  Can we also post sound clips?
+aneesh297:  So for example we could define the style for a <h1> and <p> tag at once by assigning them to the same class.
+aneesh297:  yes you can.
+rahul:  Can you please clear the term attribute
+sagarb:  Fine I'll post on main thread
+rahul:  Thanks
+aneesh297:  <div class="cities">
+<h2>Paris</h2>
+<p>Paris is the capital and most populous city of France.</p>
+</div>
+
+<div class="cities">
+<h2>Tokyo</h2>
+<p>Tokyo is the capital of Japan, the center of the Greater Tokyo Area,
+and the most populous metropolitan area in the world.</p>
+</div>
+suyashghuge:  div stands for?
+aneesh297:  <div> is used to separate the code into blocks. Nothing more than that
+sagarb:  Okay so Rahul's doubt : What exactly are attributes?
+
+Attributes are extra pieces of information about html tags. They define some properties of tags.
+
+eg. in `<h1 align="centre">Sample Page</h1>`
+
+h1 is the HTML tag.
+align is an attribute(or property) of that tag.
+centre is the value of the attribute align
+mahim23:  And how do we style the components of a class?
+sagarb:  mahim23: This would be done in CSS. We'll come to that in a few miuntes
+aneesh297:  "And how do we style the components of a class?" You could do that by mentioning it either in an external CSS file
+suyashghuge:  so can we directly write <class = "cities">?
+aneesh297:  <style>
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+} 
+</style>
+sagarb:  suyashghuge: div stands for division! It just separates various blocks of html document. It's mainly used to apply different styles/formatting to different blocks.
+
+We'll come to that in  a while
+aneesh297:  No. class is an attribute. Your definition would make it an element.
+sagarb:  suyashghuge: No you can't. `class` is an attribute and not a tag.
+rahul:  sagarb: ok got it
+suyashghuge:  :+1:
+pratyush82:  so will the style tag be within the body tag??
+aneesh297:  Okay. Sagar will cover more about styling soon. I'll finish up the rest now.
+manas1998:  What is padding?
+aneesh297:  *mentioned
+pratyush82:  :+1:
+aneesh297:  We can print lists using several different tags.
+aneesh297:  An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
+The list items will be marked with bullets (small black circles) by default:
+aneesh297:  For example:
+aneesh297:  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+aneesh297:  here again you use styles. ex: <ul style="color:blue;">
+aneesh297:  *you can use
+aneesh297:  You can change the type of bullet by using list-style-type style property
+aneesh297:  An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
+The list items will be marked with numbers by default:
+aneesh297:  Ex:
+aneesh297:  <ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+aneesh297:  The type attribute of the <ol> tag, defines the type of the list item marker:
+aneesh297:  <ol type="A"> 	The list items will be numbered with uppercase letters
+aneesh297:  Lists can also be nested:
+aneesh297:  <ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+aneesh297:  Any doubts so far?
+pratyush82:  nope
+mahim23:  No
+srahulsrihari36:  no
+aneesh297:  Okay
+aneesh297:  Moving on to forms.
+aneesh297:  After this sagar will teach you guys about CSS.
+aneesh297:  The HTML <form> element defines a form that is used to collect user input:
+aneesh297:  An HTML form contains form elements.
+aneesh297:  Form elements are different types of input elements, like text fields, checkboxes, radio buttons, submit buttons, and more.
+aneesh297:  The <input> element is the most important form element.
+aneesh297:  The <input> element can be displayed in several ways, depending on the type attribute. Ex: radio-button, text submit
+aneesh297:  <input type="text"> defines a one-line input field for text input:
+aneesh297:  So an example form might look like this: 
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey"><br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse"><br><br>
+  <input type="submit" value="Submit">
+</form>
+aneesh297:  Where action is the action taken by the browser after clicking submit
+aneesh297:  Sagar will be taking over now.
+suyashghuge:  <form action="/action_page.php"> what is this?
+pratyush82:  what is <br>?
+sagarb:  suyashghuge: Okay so when we obtain some data from the user in the form, the data will have to be sent to the backend. So the url to which data is to be sent in mentioned in action
+sagarb:  pratyush82: Line break
+pratyush82:  :+1:
+sagarb:  Okay so I'll be taking over now!
+sagarb:  There are many more HTML tags but we'll won't cover them, We'll use them when needed
+sagarb:  Now onto CSS
+sagarb:  CSS stands for Cascading style Sheet.
+sagarb:  So as developers, we should always strive to separate different components of our project.
+sagarb:  In developing front end, there are two main things we should cocentrate on :
+*Content* and *Formatting* of that content.
+sagarb:  We use *html* to *structure* the content of our web page.
+sagarb:  *CSS* to *format* them.
+sagarb:  Open a text editor (eg. Notepad) and paste it there!
+rahul:  Style attributes have a separate tag?with the name "head"?
+sagarb:  Save the file as `sample.html`. When saving make sure the `file type` is `All files` and not `Text Document`
+sagarb:  Everybody Done?
+briny_peddler:  Yea
+pratyush82:  yes
+mehnaz18:  yeah
+srahulsrihari36:  yes
+mehakarora:  yes
+pvgupta24:  yes
+sagarb:  Now, open the file. It should open in a web browser by defualt.
+sagarb:  I'll tell everything in a while!
+sagarb:  Is everybody getting this?
+pratyush82:  yes
+mehnaz18:  yes
+sagarb:  Okay fine
+omkar_p31:  yes
+sagarb:  Now, we move on to CSS and see how it can format this web page.
+srahulsrihari36:  yeh fine
+rahul:  "The type attribute of the <ol> tag, defines the type of the list item marker:
+<ol type="A">     The list items will be numbered with uppercase letters"...What does this mean?
+suyashghuge:  i didnt understand line 4 and use of id in the code you had sent
+sagarb:  suyashghuge: yes I'll be explaining everything everything in a while
+sagarb:  All of you downloaded and created CSS file?
+aneesh297:  rahul: Means that your list will be ordered using uppercase letters. That's all. Ex:
+A. Hi
+mahim23:  Yup
+aneesh297:  B. Hello
+C. hey
+D.  howdy
+pratyush82:  yes
+sagarb:  Save the css file in the same folder as the html
+sagarb:  Shall I proceed?
+briny_peddler:  What s hover?
+rahul:  oh ok....so we just need to write the first letter of the whole series...like it was written <ol type=A" right
+sagarb:  Okay I'll be explaining everything. But for now don't worry about it! Create those two fles
+sagarb:  *files
+sagarb:  Shall I proceed?
+mahim23:  Yes
+aneesh297:  yep
+pratyush82:  yes
+rahul:  okk
+sagarb:  Others??
+mehnaz18:  yeah
+srahulsrihari36:  yeah
+rahul:  Answer please?
+sagarb:  Okay now, open the html file in text editor again!
+sagarb:  Line 4 : 
+`<!-- <link rel="stylesheet" href="styles.css" /> -->`
+
+
+Change line 4 to : 
+`<link rel="stylesheet" href="styles.css" />`
+
+Comments in HTML are written as `<!-- Some Comment -->`. (I hope you all know what comments are)
+
+What we are doing here is uncommenting that line. That's all
+sagarb:  Done??
+pvgupta24:  yeah
+mehnaz18:  yes
+pratyush82:  yes
+mahim23:  Yes
+mahim23:  But nothing changed
+srahulsrihari36:  yes
+sagarb:  You have to reload the page!
+mahim23:  No sorry I named the stylesheet as "style" instead of "styles"
+mahim23:  sagarb: I KNOW
+sagarb:  Okay so all done??
+srahulsrihari36:  yah done
+mehakarora:  Yes
+pvgupta24:  yes
+anmolh:  Yes
+pratyush82:  yes
+mahim23:  Yes
+sagarb:  Okay so this is the power of CSS. It can format a simple HTML page into a good looking page!
+rahul:  aneesh297: So an example form might look like this: 
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Mickey"><br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Mouse"><br><br>
+  <input type="submit" value="Submit">
+</form>
+rahul:  I didnt get it
+sagarb:  Now let me tell you exactly what CSS is, how we use it and I'll give a brief run through the code snippet I posted!
+aneesh297:  what did you not get?
+rahul:  <br> what is this? and in the last second line why type=submit?
+sagarb:  The basic syntax of CSS include : 
+1. Selector
+2. property
+3. Value
+rahul:  it should be type=text only right?
+aneesh297:  <br> is a line break. Think of it as a simple ENTER
+sagarb:  *Selector* : Selects HTML elements to be formatted.
+rahul:  its a tag or what?
+sagarb:  *Property* : The properties of the selected element to be altered
+aneesh297:  Yep
+sagarb:  *Value* : The value of the property
+aneesh297:  Anything enclosed within a <> is a tage
+aneesh297:  *tag
+aneesh297:  A tag can have several attributes though.
+sagarb:  Example : 
+```
+body{
+    font-family: tahoma;
+    color: #FFFFFF;
+    background: #0d1521;
+}
+```
+rahul:  so the body should end with </br> right
+sagarb:  (Taken from the CSS file I posted)
+sagarb:  Here, 
+`body` is *selector*
+`font-family`, `color`, `background` are *properties*
+`tahoma`, `#FFFFFF`, `#0d1521` are *values*
+aneesh297:  The <br> tag is an empty tag which means that it has no end tag. ie. No need for </br>
+rahul:  oh ok....and the last second line..
+sagarb:  That is in this part of CSS, we are formatting the body element of HTML document.
+aneesh297:  Submit?
+aneesh297:  what about it?
+sagarb:  First we'll learn about the syntax to write *selectors*
+rahul:  that "type=submit" thing....it should be type=text only right
+rahul:  because "submit" is "text" only right
+sagarb:  ```
+sagarb:  #choice{
+    position: relative;
+    transform: translateY(30%);
+    width: 95%;
+    background: #090d13;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+sagarb:  ```
+aneesh297:  No. It creates a button called submit. Not a form field.
+aneesh297:  <https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit>
+aneesh297:  The source code is in this link. You can visualize it better now
+sagarb:  See the above code. We've used `#choice` as selector. Now what does `#` mean?
+sagarb:  Here `#choice` selects all elements whose `id` attribute has value `choice`
+aneesh297:  I think sagar must have answered this the css intro
+rahul:  ok got it....and style attributes are written in tag named "head"?
+sagarb:  If you go back to out HTML document, you'll notice the `div` element has `id` set to `choice`. So that element will be selected and formatted
+aneesh297:  yep
+sagarb:  Similary, you can use `.` to select an element with a specific `class` attribute.
+
+Example : 
+```
+.hello{
+}
+```
+
+Will select all elements with attribute class
+rahul:  ok
+aneesh297:  *in the css intro
+rahul:  uhh.....Can you please slow down the pace of the course.....its taking time to read and understand everything
+sagarb:  Now in that CSS file you've downloaded, you'll find some special selectors.
+```
+#lichoice:hover{
+    text-align: center;
+    background: rgb(0,0,0);
+}
+```
+So here, `#lichoice` selects all elements with `id` set to `lichoice`. What does `:hover` do?
+sagarb:  `#lichoice:hover` is called a *psudo-selector*. It formats elements when they are in a particular _state_.
+suyashghuge:  but li already comes under the id choice..so shouldnt it follow the #choice properties?
+sagarb:  Example : In the HTML doc I sent, you'll notice the list elements change color when you move your mouse over them.
+
+This is because, we have specified different formatting for `hover state` (ie. when mouse is over that element) and normal state(ie. when mouse is not over the element)
+sagarb:  suyashghuge: Yes it is formatted using #choice properties also. In addition we are specifying some properties in #lichoice.
+
+It's like inheritance. Child elements inherit properties of parents plus they have their own properties
+mahim23:  suyashghuge: We're overriding those properties
+suyashghuge:  :+1:
+sagarb:  Yes overriding happens if there is a conflict!
+sagarb:  Is everyone with me now?
+suyashghuge:  :+1:
+pratyush82:  yes
+srahulsrihari36:  yes
+abhishek:  yes
+mehakarora:  yes
+sagarb:  There are many different types of selectors. We'll be sending links. You can read about them online. After this I hope atleast selectors used in that document are clear
+sagarb:  Okay now moving onto *properties* and *values*
+sagarb:  *Properties* and *Values* are pretty self explanatory and need no explanation I think! Things like `color` is used to set color property is pretty obvious. Also each property can take many types of values.
+
+The thing is you can always search the Internet for a property and the type of values it takes. So you not memorise them. Remember just the basic ones.
+
+But selectors are more important. You have to write selectors so they suit your custom needs. That is, so they are in accordance with the HTML file you've written. So you should know different techniques used to select elements
+sagarb:  I'll just go through some basic properties.
+sagarb:  `color` : color takes different types of values. I mostly use hexadecimal.
+For example black can be assigned as follows : 
+
+`color : black;`
+`color : #000000;`
+sagarb:  `color : rgb(0,0,0);`
+sagarb:  I use hexadecimal because you can easily get hexadecimal values of any color using Google's color picker.
+
+<https://www.google.co.in/search?q=%23ffffff&oq=%23ffffff&gs_l=serp.3..35i39k1.2341.2737.0.3362.3.3.0.0.0.0.129.376.0j3.3.0....0...1.1.64.serp..0.3.376...0.M1iWv9_Zzjc>
+sagarb:  Some other common properties are `margin` and `padding`. Learn about the differences between them. Both are used to space different elements properly on screen
+sagarb:  It's already 9:30
+sagarb:  So this is it for today! If you have any doubts you can always PM any of us!
+sagarb:  Is everything clear today?
+mahim23:  Yup
+omkar_p31:  yes
+pratyush82:  yes
+briny_peddler:  Yea
+mishal23:  Yes..thanks for the session:grinning:
+mehakarora:  Yes
+sagarb:  Thank you for attending the session people! Web development gets very interesting and intense when we get to the backend part! Make sure you attend all those sessions with the same enthusiasm
+sagarb:  rahul shift to doubts channel
+viggi:  srahulsrihari36: there is something called metadata. It says information about the webpage. Notice the tab name once you open the web page:relaxed:
+viggi:  aneesh297: one more thing: such alt tags are supposed to kinda describe the image, as the search engine considers alt tags too, to get search results.
+viggi:  <@U5866PWNB> padding:20px would give 20px of blank space inside the border in all 4 sides. 
+manas1998:  Ok
+aneesh297:  Guys join the <#C5CM4ACHX|bookshelf> channel. We will be sharing resources there. 
